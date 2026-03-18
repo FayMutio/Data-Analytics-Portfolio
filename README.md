@@ -9,3 +9,5 @@ This repository aims to showcase my skills as well as track my progress in Data 
 ## Table of Contents
 - [Profile](https://github.com/FayMutio/Data-Analytics-Portfolio/blob/main/README.md#Profile)
 - [Projects](https://github.com/FayMutio/Data-Analytics-Portfolio/blob/main/README.md#Projects)
+  - R
+    - [Bellabeat Case Study] (https://github.com/FayMutio/Data-Analytics-Portfolio/blob/main/README.md#Bellabeat Case Study)
