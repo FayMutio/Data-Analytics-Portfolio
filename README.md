@@ -11,3 +11,12 @@ This repository aims to showcase my skills as well as track my progress in Data 
 - [Projects](https://github.com/FayMutio/Data-Analytics-Portfolio/blob/main/README.md#Projects)
   - R
     - [Bellabeat Case Study](https://github.com/FayMutio/Data-Analytics-Portfolio/blob/main/README.md#bellabeat-case-study)
+
+
+## Project Details
+### Bellabeat Case Study
+In this project, I worked with the FitBit Fitness Tracker dataset, a public domain dataset made available through Mobius on Kaggle. The dataset contains personal fitness tracker data from thirty FitBit users who consented to share their data, including minute-level records of physical activity, heart rate, and sleep patterns.
+
+I analysed key metrics such as daily activity, step count, and calorie expenditure to better understand user behaviour and lifestyle habits. This dataset provides a strong foundation for exploring trends in physical activity, sleep, and overall health patterns, enabling the generation of meaningful insights into user habits.
+
+**Skills:** Exploratory Data Analysis (EDA), Data Visualization (ggplot2), Data Transformation (dplyr, tidyr), Statistical Analysis, Trend & Pattern Identification, Data Interpretation & Insight Generation.
