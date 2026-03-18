@@ -4,4 +4,6 @@ I am a highly analytical Data Analyst with a strong ability to transform raw dat
 
 I excel at identifying trends, improving data quality, and enhancing data accessibility, while collaborating cross-functionally to drive business performance and deliver impactful, data-driven solutions.
 
+For reference, here's my CV :
+
 This repository aims to showcase my skills as well as track my progress in Data Analytics. It encompasses a display of skills and projects in SQL, R and Python.
