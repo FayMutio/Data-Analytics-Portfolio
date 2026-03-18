@@ -7,4 +7,5 @@ I excel at identifying trends, improving data quality, and enhancing data access
 This repository aims to showcase my skills as well as track my progress in Data Analytics. It encompasses a display of skills and projects in SQL, R and Python.
 
 ## Table of Contents
-[Profile](https://github.com/FayMutio/Data-Analytics-Portfolio/blob/main/README.md#Profile)
+- [Profile](https://github.com/FayMutio/Data-Analytics-Portfolio/blob/main/README.md#Profile)
+- [Projects](https://github.com/FayMutio/Data-Analytics-Portfolio/blob/main/README.md#Projects)
