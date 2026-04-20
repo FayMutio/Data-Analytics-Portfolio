@@ -12,7 +12,7 @@ This repository aims to showcase my skills as well as track my progress in Data 
   - R
     - [Bellabeat Case Study](https://github.com/FayMutio/Data-Analytics-Portfolio/blob/main/README.md#bellabeat-case-study)
   - Python
-    -
+    - [Customer Behaviour and Credit Analysis](https://github.com/FayMutio/Data-Analytics-Portfolio/blob/main/Customer%20Behaviour%20and%20Credit%20Analysis.ipynb)
 
 
 ## Project Details
